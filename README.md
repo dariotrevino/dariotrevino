@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Cloud Security projects
+- 🔭 I’m currently working on Cloud Security projects
 - 🌱 I’m currently learning how to create my personal website on GitHub
 - 👯 I’m looking to collaborate on any Security realted projects
 <!--
