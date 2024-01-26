@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Cloud Security projects
 - 🌱 I’m currently learning how to create my personal website on GitHub
-- 👯 I’m looking to collaborate on any Security realted projects
+- 👯 I’m looking to collaborate on any Security related projects
 <!--
 **dariotrevino/dariotrevino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
