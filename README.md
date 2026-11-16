@@ -1,8 +1,8 @@
-## Dario Treviño
+## Dario Trevino
 
 Security engineer focused on data protection and detection. On the side I'm working toward offensive security and building small tools that solve real problems.
 
-**Certs:** CISSP · Security+ · OSCP (in progress)
+**Certs:** CISSP · Security+ · CCSP (in progress)
 
 ### What I'm into
 - **Data protection:** detection engineering and cutting down false positives
