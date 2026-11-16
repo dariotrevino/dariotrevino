@@ -12,6 +12,7 @@ Security engineer focused on data protection and detection. On the side I'm work
 ### Projects
 - [**followeranalyzer.io**](https://followeranalyzer.io) · Privacy-first Instagram follower analyzer that runs in your browser.
 - [**dariotrevino.com**](https://dariotrevino.com) · Personal site
+- [**worthowning.net**](https://worthowning.net) · Products I love site
 
 ### Connect
 [X](https://x.com/dario_trevino) · [Buy me a coffee](https://buymeacoffee.com/dariotrevino)
